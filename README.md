@@ -13,7 +13,7 @@
   In the introduction there are some examples of commands for Jarvis,
   you can ask him to do more things and try new commands!
   If you want to create new commands for Jarvis so he can answer to you, 
-  simply ask Jarvis to open his mind as: "open your mind"    
+  simply ask Jarvis to open his mind as: "**open your mind**"    
  
-  To know more about the Jarvis possible inputs, simply ask Jarvis "inputs" 
+  To know more about the Jarvis possible inputs, simply ask Jarvis "**inputs**" 
     
