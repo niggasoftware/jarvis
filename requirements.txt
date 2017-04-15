@@ -1,0 +1,2 @@
+ChatterBot==0.6.0
+pafy==0.5.3.1
