@@ -1,5 +1,5 @@
 # JARVIS
-## Personal Assistant - Made by: niggasoftware
+## Personal Assistant
 
 ### To run Jarvis simply clone or download the repository and execute:
 `python jarvis.py`
